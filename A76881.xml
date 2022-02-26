@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody game at cards, as it was played betwixt the King of Hearts. And the rest of his suite, against the residue of the packe of cards. Wherein is discovered where faire play; was plaid and where was fowle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76881</idno>
+            <idno type="STC">Wing B3253</idno>
+            <idno type="STC">Thomason E246_11</idno>
+            <idno type="STC">ESTC R3016</idno>
+            <idno type="EEBO-CITATION">99872257</idno>
+            <idno type="PROQUEST">99872257</idno>
+            <idno type="VID">124683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124683)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody game at cards, as it was played betwixt the King of Hearts. And the rest of his suite, against the residue of the packe of cards. Wherein is discovered where faire play; was plaid and where was fowle.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Shuffled at London, cut at Westminster, dealt at Yorke, and plaid in the open field. by the citty-club, the country spade-men, rich-diamond men and loyall hearted men.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With t.p. woodcut.</note>
+                  <note>A satire in support of Charles I.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb: 10 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124683:1" rendition="simple:additions"/>
+            <p>The bloody Game at Cards. As it was played betwixt the KING <hi>OF</hi> HEARTS. And the reſt of His Suite, againſt the reſidue of the packe of cards.</p>
+            <p>WHEREIN Is diſcovered where faire play; was plaid and where was fowle.</p>
+            <figure>
+               <figDesc>King of Hearts playing card</figDesc>
+            </figure>
+            <p>Shuffled at London, Cut at Weſtminſter, Dealt at Yorke, and Plaid in the open field. by the Citty-clubs, the country Spade-men, Rich-Diamond men and Loyall Hearted men.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124683:2"/>
+            <pb n="3" facs="tcp:124683:2"/>
+            <head>The bloody Game at Cards.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Common-wealth may in many reſpects be compared to a packe of Cards, wherein there is much ſhuffling, and by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he hand of Fortune the foure Suites are mingled together, that is the Clubs, the Countrie Spade men, the rich Diamond men, and the Loyall hearted Subjects that ſtand for the King of Hearts who challengeth a Pretogative above them all. This King of Hearts deſires that there might be fair play above board, and hath made many Declarations and Proteſtations that He in<g ref="char:EOLhyphen"/>tends all faire dealing, and deſires onely to be King in His owne Common-wealth, and not to be oppoſ'd by the Common Cards; But they little regarding what the King of Hearts power is in the game of the Common-wealth, preſently beganne to ranke themſelves into ſeverall Suites and to oppoſe the King of hearts, and call all the Adherents unto Him malignants; after the Game of the times had thus far proceeded, a quarrell aroſe betweene the chiefe Cards who had pack'd themſelves together againſt the King &amp; the King of hearts Himſelf, &amp; the controverſie was about the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> and the Commiſſion of Aray which the King of Hearts ſets on foot and would maintaine it to be good faire play, the Common Cards diſſented from it, and allead<g ref="char:EOLhyphen"/>ged that the <hi>Militia</hi> ought to be in their hands and that there could be no faire deal<g ref="char:EOLhyphen"/>ing in the Common-wealth if the Kings Commiſſion of Aray went forward, hereupon and upon ſome ot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſſentions the City Clubs made a great tumult and with ſtaves clubs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnd ſwords ran to the King of Hearts Hall, and put the King of Hearts into ſuch an aff<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as Himſelfe doth expreſſe in many of His Declarations.</p>
+            <p>The City-Clubs comming thus in a mutinous manner made Him caſt about how to get away from ſuch a packe of knaves, and ſo forſaking the City Clubs he purpoſed chiefly to repoſe His confidence in that Suite whereof He and His Father were King, and that was the Loyall Hearts of His other Subjects, and ſo away the King of Hearts went and by His faire dealing in the Countrey His ſuite of Hearts was ſo much en<g ref="char:EOLhyphen"/>creaſed that he had ſoone collected a great Army and under the Ace, which is the t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue Proteſtant Religion one in ſubſtance and eſſence, He intended to defend the Li<g ref="char:EOLhyphen"/>berty of the Common cards, the juſt Priviledges of the Common-wealth, the Laws of
+<pb n="4" facs="tcp:124683:3"/>the Land and the juſt government and good dealing therein, and thus the game of the Common-wealth ſhould be well and fairely playd on all ſides, He ſtakt His Royall word and called God often to witneſſe How free He was from deceiving His people, and that He would alwayes governe the Common Cards according to the Lawes of this Land, de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ring them all to comply with Him and with hearty affection to follow Suite in maintaining the Libertie of the Subject, and the Proteſtant Religion which He promiſed (as He was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of hearts) ever to maintaine and defend. But the Common Cards namely the City c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ub<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Countrey Spade-men and the rich Di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mond-men, would beleeve nothing of the King of hearts good intentions, but would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es bring all former quartels to the ſtake, and in a Batta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le all the Common cards reſolved to play about with the King of Hearts in the open field.</p>
+            <p>Hereupon the city-clubs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe themſelves a King who was indeede a brave noble Earle whoſe Title is expreſt by two of the laſt Letters, under him there were many other petty Kings of clubs, ſome in gownes like the Maior of a City beſides a number of others who would needes play <hi>Rex</hi> in the Kings abſence ſo the game of war went on and then there was one company of City <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ub-Aces or Aſles in blew coates, the Duces were the City Captains, the Tray of clubs was a third Companie and they would have laid three to one that they ſhould have done ſomewhat, the foure of clubs was the Tro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers and horſemen, who choſe to be horſemen that they might have foure legges to run away faſt enough the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th was a company of fine yong men with ribbonds in their hats which they wore in re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>embrance of their ſweete<g ref="char:EOLhyphen"/>hearts the fixt company of clubs were Red-coats and Butchers moſt of them and theſe would have laid ſix to one that they would have be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te the Cavalleirs, the ſe<g ref="char:EOLhyphen"/>venth eight and ninth companies, were a mixture of C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kolds Pimps punie boyes bro<g ref="char:EOLhyphen"/>ken citizens and unruly prentiſes. All theſe went under the King of Clubs. The knave of clubs ſeeing this greate preparation, being a kinde of broken merchant ha<g ref="char:EOLhyphen"/>ving a Roundhead full of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itty ſermons, and loving to talke treaſon in Taverns being a fellow that ſcorned all learning and Gentilitie, and thought himſelf a king in the pa<g ref="char:EOLhyphen"/>riſh where he lived, he gave en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouragement to the citie-clubs and told them that the King was led away by malignants and evill Counſellours, and that He was more then halfe a P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſt, and he told them they might kill the King and bear armes againſt the King, and yet fight for the King and Parliament; and he would never call Him the King of Hearts: And moreover the knave of clubs aſſured them that he would trump the King and win the field from Him, This was no ſooner agreed upon by all the Ci<g ref="char:EOLhyphen"/>ty-Clubs, but the Queene of Clubs being the wives of the inferiour ſort of Mechan<g ref="char:EOLhyphen"/>icks, began to talke in a free manner of the King and His proceedings, and at feaſts and goſſippings the King of Hearts was ſtill made their ſubject, Nay ſome thought they could not be got with childe enleſſe their husbands ſtood, for the Parliament and did oppoſe the King of Hearts. And thus the Queenes of Clubs were the preciſe
+<pb n="5" facs="tcp:124683:3"/>women of the Cittie, the Cittie Clubs were the Cittie ſouldiers who under the com<g ref="char:EOLhyphen"/>mand of the Generall of Clubs would needs march, out, The Spade-men ſhuſſled themſelves into their number and being countrey fellowes of all ſuites red and blew and tawnie, becauſe they would have all ſome Colou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for their knavery, they have left their Sweet hearts with childe in the Countrey would needs advance forward Some calves came from <hi>Eſſex,</hi> ſome Beefe and Bacon eaters from <hi>Hartfordſheire,</hi> and others from other Counties to defend the Publique Faith of the Pariſh wherein they lived; And were inſtructed by ſermons how to be Rebells againſt the King of Hearts: The knave of Spades was a kinde of an ignorant turbulent fellow that ſate in all companies with a bolde face and a white ſtaffe in his hand, and he went abroad into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Townes and Villages and ſought to ſowe Treaſon and Rebellion every where, &amp; having <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead the Kings weekly Proteſtations &amp; Declarations, he would picke out matter enough to make the King of Hearts no King in an Ale-houſe, and then he would whiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er unto them that as they lookt to have any Property in their owne goods they ſhould reſiſt the King and His Commiſſion of Aray for elſe by an Arbitra<g ref="char:EOLhyphen"/>ry government they ſhould have a hundred trickes put upon them, and the Countrey ſhould be all but a company of looſing Cards and fit to be caſt out of the Game of the Common-wealth, and none ſhould be reſpected but court cards, that is Papiſts Malignants and Paraſites, and therefore (ſaid he) Let all true countrey-men ſtand for the Libertie of the Subject the Priviledges of Parliament, and the Proteſtant Religion of our Towne, let us carry Pick-axes and Spades, and digge up the two Vniverſities, being prophane and wicked Gardens, and alſo with our Spades let us intrench upon all Authoritie and Power, and even digge the King up by the Rootes, and by the helpe of the Parliament ſo Hedge and Ditch in the Commons, that neither I yons nor Aſſes, that is, the great men of the Common-wealth, nor the Droanes of the Clergie may feede upon us, but that Sp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des joyning with the other common Cards, may undermine the Scepter of the King of Hearts, for we Spade-men are all kings, by our deſcent from <hi>Adam.</hi>
+            </p>
+            <p>This being whiſpered into the eares of the Spade-men, they all began to follow Suit in a mutinous manner, to ſet forth many thouſand Spade-men againſt the King of Hearts, having onely learnt this Leſſon from the Knave of Spades, That they ſtood for the King and Parliament; the greater Spades, that is, the Countrey Gentry were divided amongſt themſelves, and men from an hundred to ten hundred a yeare, were of ſeverall ſorts and opinions: ſome followed the Knave of Spades, and would oppoſe the King of Hearts, and all his Pro<g ref="char:EOLhyphen"/>ceedings; others ſhuffled themſelves into the Rings Armie of Hearts, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orned to thinke, that the Spade-men ſhould domineere over the Ring of Hearts.</p>
+            <p>The Diamond men were rich in Stones of all ſorts, and in wealth and
+<pb n="6" facs="tcp:124683:4"/>treaſure in Citie and Countrey, and therefore they embrac'd Rebellion thinking that the Common Cards would defend them. The Queenes of Diamons being Gold<g ref="char:EOLhyphen"/>ſmiths wives, and others that like ſlow ſay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Pinnaces walkt along the ſtreete by the ſteering of a prentiſe for a Pilot, theſe were ſhrewd cards againſt the King of Hearts, yet ſome were well affected to His Majeſtie in regard the Courtiers did often pleaſure the Cit e wives with Court-ſtones which they exchanged for Diamon Rings.</p>
+            <p>The knave of Diamonds was ſometimes a rich cittizen that had broken often, mar<g ref="char:EOLhyphen"/>ried and wrong'd many widowes, and run through all the wayes of Citie po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cie, and he cryed out,
+<q>
+                  <l>Silver and gold doth all the world command,</l>
+                  <l>Therefore for it and not the King I stand.</l>
+               </q>
+            </p>
+            <p>This was a kinde of witles wealthie knave living and dwelling in all Pariſhes, theſe perſwaded the Common Cards to play the fooles in parting with p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate and mo<g ref="char:EOLhyphen"/>ney to win the day of the King of Hearts. So now ſuppoſe the three Suites have cut and ſhuffled and packt the Common Cards into a mut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nous mixture of Rebellion; whom would they play againſt? Not the B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hops they were layd in priſon already for fowle play in Religion, the Earie of <hi>Strafford</hi> had ſtakt his head for the King of Hearts and loſt it, Sr. <hi>John Suckling,</hi> Mr. <hi>Jermy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and other gameſters that had former<g ref="char:EOLhyphen"/>merly wonne much at Dice; yet durſt not ſtand to the par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ede game of the Common Cards: Now thoſe common cards before men<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oned would needs <hi>Vi &amp; Armis</hi> that is with handy ſtroakes againſt the K ng of Hearts, His Majeſtie taking notice hereof and how the common cards had undue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y aſſumed unto themſelves to direct and order all things &amp;, like players act their own par<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oun er<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted Crowns as if they were all Kings, the King of Hearts ſpoke thus unto His Suite of valliant-hearted ſouldiers.</p>
+            <p>The Scepter is and muſt bee mine. Vnite your ſelves to maintaine ſo Honourable ſo Juſt a Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, and what one hand cannot infringe, Let many mainetaine: You have God for your cauſe, you have me for his ſecond, and ſince both are together who can oppoſe us?</p>
+            <p>This being ſaid the Kings men were all Hearts not onely in colour but in courage, So the Game of warre beganne in <hi>Kenton</hi> field where the Cannons played ſorely and many of the Common Cards were loſt the Kings Suite put tricks upon them but yet were ſome time ſhrewdly beaten themſelves, the chafing Drum and bragging Trumpet kept away other ſounds of dying or flying Cards, in the hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of this b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oody Game where all were players none were ſpectators or lookers on Prince <hi>Robert</hi> be<g ref="char:EOLhyphen"/>ganne to play foule play and to plunder the Common Cards and tooke away their waggons and kil'd their Waggoners and was not this foule play? But ſome Gameſters or ſouldiers may ſay that Prince <hi>Roberts</hi> foule play in plundering the waggons was a great helpe to advance the fortune of that day for otherwiſe the Common cards had loſt more lives if Prince <hi>Robert</hi> had not imployed ſome troopes to pillage the wag<g ref="char:EOLhyphen"/>gons. Well the Game went forward very hotly kill kill was the word inſtead of play
+<pb n="7" facs="tcp:124683:4"/>follow ſuite was trun'd to fall on upon the right wing thus they continued the Game of war, but the left wing of the Common Cards ſhewed the baſeſt trick that ever was, for they took their wings and fled quite away like beaten gameſters or elſe ran to the Kings ſide the red Cards on both ſides that day performed and played their parts ve<g ref="char:EOLhyphen"/>ry couragiouſly, But ſome of the citie clubs ran away for knaves will be knaves and towards will be cowards upon occaſions, but to ſay truth there was brave faire Cards on both ſides, and ſuch hot play as the like Game was never playd in any other Na<g ref="char:EOLhyphen"/>tion; the French-mans Pell Mell is but to let out his ſweating humours and make him have a ſtomacke to his meat and a wench, but this game of pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mel did let out their deereſt blood and this letting of blood made them have more courage and ſto<g ref="char:EOLhyphen"/>macke to fight, ſo that the Common Cards lay torne and caſt upon the ground, ſo did the Kings Hearts blowes being dealt equally in this bloody game; at leaſt they ha<g ref="char:EOLhyphen"/>ving ſpent their fury a long time on one another, like ſtrong Gameſters full of money and therefore ſcorning to yeelde they retreated and breathed a while intending to have another bout, and from the top of <hi>Edge-Hill</hi> the king of Hearts viewed the com<g ref="char:EOLhyphen"/>mon Cards killing them with murdering eyes full of fury, when they could not reach them with their ſwords, but at the laſt conſidering that they as well as the Common Cards had loſt many of their Suites they had no ſtomackes to play out their looſing hands any longer, but to ſave ſome of their Cards to make bloody ſport at ſome other time, So they drew ſtakes for that night the victory being not gotten on either ſide, but blowes enough dealt about both by the foot play and the horſe play, when the Game was done the King of Hearts ſide and the Common Cards ſide began to count and reckon their leſſes, and both found whole Regiments wanting, moſt of the Red Cards on both ſides were loſt; many of the Clubs knoc'l downe trump'd and beaten by the Kings Hearts, the countrey Spade-men had rather have beene t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lough or playing at Cards in Ale-houſe rather then venturing their lives at this bloody and temble Game; ſo that many of them were loſt Cards their commanders rub them on with encouraging words, but yet ſome of them ran away, and ſo ſome of the Diamond men proved themſelves counterfeite and when they ſaw their owne red blood, there was nothing red about them but their ſcarlet coates, for their colour was as pale as if a diſh of milke had been throwne in their faces, well a great many of the Kings hearts were loſt alſo, but they playd their Game without feare and put the nobleſt beſt cards forwards. But at laſt when both ſides had counted their Cards ſome ſay the common cards loſt moſt, and others that were Gameſters at <hi>Kenton</hi> field affirme that the King loſt more of His Hearts then they did of Common Cards, But indeede it is to bee thought that they loſt Cards and Cards and though their loſſes were equall or very neere alike. To conclude lets al pray that the like Came may never bee playd between the Common Cards and the King of He arts, but that all may follow Suite and love Him with their Hearts,
+<q>
+                  <l>You Common Cards how durst you play your parts?</l>
+                  <l>In open field against the King of Hearts.</l>
+                  <pb n="8" facs="tcp:124683:5"/>
+                  <l>VVe know you winne in every Countrey Towne</l>
+                  <l>Both Pence and Pots of Ale, but 'gainst a Crown?</l>
+                  <l>To ſtake your Coxcombs, may ſuch Cards, I pray,</l>
+                  <l>Be burne, that 'gainſt the King of Hearts will play:</l>
+                  <l>For know your Loſſe is certaine, and you winne</l>
+                  <l>Nought but Diſhonour, that reſist the King.</l>
+               </q>
+            </p>
+            <p>This Game hath bin playd over and over, and although the Clubs make a great d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring, and thinke themſelves the onely Gameſters, they have of late bin ſhrowdly Trumped, witneſſe the laſt Game which was playd at <hi>Ciren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ester</hi> in <hi>Glouc<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er<g ref="char:EOLhyphen"/>ſhire,</hi> wherein the Suit of Hearts did play their Game ſo bravely, and ſo much whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the other Pack, that there is ſcarce left a Stock to Deale another Game by; the Dia<g ref="char:EOLhyphen"/>monds made the Spades their Sextons, and happy was he could get the honour of a private Grave. The Clubs, that playd ſo well at <hi>Bradford</hi> in <hi>Yorkſhire,</hi> have by Trumping others bin ſo extreamely Trumpt themſelves, that they deſire no longer to be in the number of the Pack.</p>
+            <p>It is now thought high time to leave off Playing, for by many after-Games the Pack is growne ſo poore, that they are unable to Shew themſelves; and although they beleeve, in their Loſſes, that it is but Gameſters hard fortune, yet let them looke to it, Faire Playing alwayes carryes away the Bell. The King of Hearts, as his Suit is beſt in Colour and in Courage, ſo they are ſuch underſtanding Gameſters, that they will not be taken in any over-ſight; there are no Bunglers there, nor any fumbling in all their Play, but all expert and cunning Gameſters: it is therefore no wonder if Succeſſe doth attend them, and that they ſtill come Winners off in all the Games they Play. The reſt of the Pack have therefore done very well and wiſely, to crave a Truce of the King of Hearts, who is more willing to forgive them, then they have bin apt to oppoſe him.</p>
+            <q>
+               <l>Since they on both ſides have him croſs't,</l>
+               <l>And both have wonne, and both have lost,</l>
+               <l>It now is thought high time of Day</l>
+               <l>Friendly to part, and leave of Play.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
